@@ -1,3 +1,3 @@
 numpy
 pandas
-plotly.graph_objs
+plotly
