@@ -4,3 +4,6 @@ Clic sur  : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 # Test batterie sur l'année 8760 heures
 Clic sur  : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/el-dge/op_batterie/master?filepath=bat8760.ipynb)
+
+# Test batterie sur l'année 8760 heures ; meilleur optimisation
+Clic sur  : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/el-dge/op_batterie/master?filepath=bat8760_numba.ipynb)
